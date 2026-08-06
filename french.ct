@@ -1,4 +1,4 @@
-## version $VER: VMM.catalog 1.0 (03.01.2010)
+## version $VER: VMM.catalog 1.0 (06.08.2026)
 ## language français
 ## codeset 0
 ;
@@ -366,9 +366,7 @@ Sauver les Préférences de VMM
 ;
 ; this one needs one %s where the name of the preferences file is put in
 msgInvalidPrefs
-le fichier de préférences %s n'est pas correct\n\
-;%s is not a valid preferences file\n\
-;Resetting to defaults
+le fichier de préférences %s n'est pas correct\nRéinitialisation aux valeurs par défaut
 ;%s is not a valid preferences file\n\
 ;Resetting to defaults
 ;
