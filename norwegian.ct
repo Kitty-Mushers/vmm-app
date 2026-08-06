@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language norsk
+## codeset 0
+;
+msgDontUseVM
+Ikke bruk VM
+; Don't use VM
+;
+msgUseVM
+Bruk VM
+; Use VM
+;
+msgAdvancedOptions
+Avanserte valg
+; Advanced options
+;
+msgAddProg
+Legg til program
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Legg til oppgave
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Legg til
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Øverst
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Opp
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Ned
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Nederst
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Slett
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Sorter
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kode
+; Code
+;
+msgData
+Data
+; Data
+;
+msgMinPublic
+Min. PUBLIC allok.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. ikke-PUBLIC allok.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Velg oppgave
+; Select Task
+;
+msgFixedSize
+Fast størrelse
+; Fixed size
+;
+msgDynamic
+Dynamisk
+; Dynamic
+;
+msgRestrictedDynamic
+Begrenset dynamisk
+; Restricted dynamic
+;
+msgDevice
+Partisjon
+; Partition
+;
+msgFile
+Fil
+; File
+;
+msgPseudoPart
+Pseudopartisjon
+; Pseudo-partition
+;
+msgAny
+ANY
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Velg fil
+; Please select file
+;
+msgPagingMemory
+\033cSidevekslingsminne
+; \033cPaging memory
+;
+msgMemType
+\033cMinnetype
+; \033cMemory type
+;
+msgMinMem
+\033cMinimum minne
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMaksimalt minne
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cSkrivebuffer
+; \033cWrite buffer
+;
+msgPrio
+\033cVM-prioritet
+; \033cVM Priority
+;
+msgFileSize
+\033cFilstørrelse
+; \033cFile size
+;
+msgZoomed
+Bare tittellinje
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPosisjon i normaltilstand
+; \033cPosition in normal state
+;
+msgLeftEdge
+Venstre
+; Left
+;
+msgTopEdge
+Øverst
+; Top
+;
+msgPosZoomed
+\033cPosisjon som tittellinje
+; \033cPosition as titlebar
+;
+msgStatistics
+Statistikk
+; Statistics
+;
+msgCacheZ2RAM
+Mellomlagre Zorro II-RAM
+; Cache Zorro II RAM
+;
+msgPatchWB
+Vis VM i WB-tittel
+; Show VM in WB title
+;
+msgMemTracking
+Minnesporing
+; Memory tracking
+;
+msgMinVMAlloc
+Min. VM-allokering
+; Min. VM allocation
+;
+msgEnableHotkey
+Hurtigtast for å aktivere VM
+; Enable VM hotkey
+;
+msgDisableHotkey
+Hurtigtast for å deaktivere VM
+; Disable VM hotkey
+;
+msgProject
+Prosjekt
+; Project
+;
+msgOpen
+Åpne...
+; Open...
+;
+msgOpenShort
+Å
+; O
+;
+msgSaveAs
+Lagre som...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Lagre vindu
+; Save Window
+;
+msgAbout
+Om...
+; About...
+;
+msgHide
+Gjem
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Avslutt
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Rediger
+; Edit
+;
+msgDefaults
+Tilbakestill til standard
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Sist lagret
+; Last Saved
+;
+msgLastSavedShort
+Y
+; L
+;
+msgRestore
+Gjenopprett
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Lagre
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Bruk
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Avbryt
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Navnet på partisjonen til sidevekslingsfilen mangler
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Behandler for virtuelt minne
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 by Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Klarte ikke starte VMM\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Ikke nok minne\n
+; Not enough memory\n
+;
+msgNew
+>> NY <<
+; >> NEW <<
+;
+msgDefault
+----- S T A N D A R D -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Last inn VMM-innstillinger
+; Load VMM Preferences
+;
+msgSavePrefs
+Lagre VMM-innstillinger
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s er ikke en gyldig innstillingsfil\nTilbakestiller til standard
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cVirtuelt minne for Amiga-maskiner\n\033cmed MMU\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Oppgaver/programmer
+; Tasks/Programs
+;
+msgMemory
+Minne
+; Memory
+;
+msgMisc
+Diverse
+; Miscellaneous
+;
+msgSelectProg
+Velg programfil
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Feil ved lagring av vindusposisjon
+; Error saving window position
+;
+msgNoCfgFile
+Klarte ikke åpne oppsettfilen %s
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+Filen %s er ikke en gyldig oppsettfil
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Legg til kat.
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Velg katalog
+; Select directory
+;

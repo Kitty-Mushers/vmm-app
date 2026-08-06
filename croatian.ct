@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language hrvatski
+## codeset 5
+;
+msgDontUseVM
+Ne koristi VM
+; Don't use VM
+;
+msgUseVM
+Koristi VM
+; Use VM
+;
+msgAdvancedOptions
+Napredne opcije
+; Advanced options
+;
+msgAddProg
+Dodaj Program
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Dodaj Zadatak
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Dodaj
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Vrh
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Gore
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Dolje
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Dno
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Izbri¹i
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Razvrstaj
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kod
+; Code
+;
+msgData
+Podaci
+; Data
+;
+msgMinPublic
+Min. PUBLIC alok.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. ne-PUBLIC alok.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Izaberi Zadatak
+; Select Task
+;
+msgFixedSize
+Fiksna velièina
+; Fixed size
+;
+msgDynamic
+Dinamièno
+; Dynamic
+;
+msgRestrictedDynamic
+Ogranièeno dinamièno
+; Restricted dynamic
+;
+msgDevice
+Particija
+; Partition
+;
+msgFile
+Datoteka
+; File
+;
+msgPseudoPart
+Pseudo-particija
+; Pseudo-partition
+;
+msgAny
+BILO KOJA
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Molim izaberite datoteku
+; Please select file
+;
+msgPagingMemory
+\033cMemorija za stranièenje
+; \033cPaging memory
+;
+msgMemType
+\033cTip memorije
+; \033cMemory type
+;
+msgMinMem
+\033cMinimalna memorija
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMaksimalna memorija
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cMeðuspremnik za pisanje
+; \033cWrite buffer
+;
+msgPrio
+\033cVM Prioritet
+; \033cVM Priority
+;
+msgFileSize
+\033cVelièina datoteke
+; \033cFile size
+;
+msgZoomed
+Samo naslovna traka
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPozicija u normalnom stanju
+; \033cPosition in normal state
+;
+msgLeftEdge
+Lijevo
+; Left
+;
+msgTopEdge
+Vrh
+; Top
+;
+msgPosZoomed
+\033cPozicija kao naslovna traka
+; \033cPosition as titlebar
+;
+msgStatistics
+Statistika
+; Statistics
+;
+msgCacheZ2RAM
+Predmemoriraj Zorro II RAM
+; Cache Zorro II RAM
+;
+msgPatchWB
+Prika¾i VM u WB naslovu
+; Show VM in WB title
+;
+msgMemTracking
+Praæenje memorije
+; Memory tracking
+;
+msgMinVMAlloc
+Min. VM alokacija
+; Min. VM allocation
+;
+msgEnableHotkey
+Tipka za ukljuèivanje VM-a
+; Enable VM hotkey
+;
+msgDisableHotkey
+Tipka za iskljuèivanje VM-a
+; Disable VM hotkey
+;
+msgProject
+Projekt
+; Project
+;
+msgOpen
+Otvori...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Spremi Kao...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Spremi Prozor
+; Save Window
+;
+msgAbout
+O Programu...
+; About...
+;
+msgHide
+Sakrij
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Izlaz
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Uredi
+; Edit
+;
+msgDefaults
+Resetiraj na Predlo¾ene Postavke
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Zadnje Spremljeno
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Povrat
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Spremi
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Koristi
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Odustani
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Nedostaje ime particije ili straniène datoteke
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Upravitelj virtualne memorije
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 by Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Ne mogu pokrenuti VMM\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Nedovoljno memorije\n
+; Not enough memory\n
+;
+msgNew
+>> NOVO <<
+; >> NEW <<
+;
+msgDefault
+----- Z A D A N O -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Uèitaj VMM Postavke
+; Load VMM Preferences
+;
+msgSavePrefs
+Spremi VMM Postavke
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s nije valjana datoteka postavki\nVraæam na predlo¾ene postavke
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cVirtualna memorija za Amige\n\033cs MMU jedinicom\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Zadaci/Programi
+; Tasks/Programs
+;
+msgMemory
+Memorija
+; Memory
+;
+msgMisc
+Razno
+; Miscellaneous
+;
+msgSelectProg
+Izaberi programsku datoteku
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Pogre¹ka pri spremanju pozicije prozora
+; Error saving window position
+;
+msgNoCfgFile
+Ne mogu otvoriti konfiguracijsku datoteku %s
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+Datoteka %s nije valjana konfiguracijska datoteka
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Dodaj Mapu
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Izaberi mapu
+; Select directory
+;

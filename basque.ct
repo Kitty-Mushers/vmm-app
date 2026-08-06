@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+msgDontUseVM
+Ez erabili VM
+; Don't use VM
+;
+msgUseVM
+Erabili VM
+; Use VM
+;
+msgAdvancedOptions
+Aukera aurreratuak
+; Advanced options
+;
+msgAddProg
+Gehitu programa
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Gehitu ataza
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Dock gehitu
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Goian
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Gora
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Behera
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Behean
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Dock ezabatu
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Ordenatu
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kodea
+; Code
+;
+msgData
+Datuak
+; Data
+;
+msgMinPublic
+Gutx. PUBLIC esleip.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Gutx. ez-PUBLIC esleip.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Hautatu Ataza
+; Select Task
+;
+msgFixedSize
+Tamaina finkoa
+; Fixed size
+;
+msgDynamic
+Dinamikoa
+; Dynamic
+;
+msgRestrictedDynamic
+Dinamiko mugatua
+; Restricted dynamic
+;
+msgDevice
+Partizioa
+; Partition
+;
+msgFile
+Fitxategia
+; File
+;
+msgPseudoPart
+Pseudo-partizioa
+; Pseudo-partition
+;
+msgAny
+EDOZEIN
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Mesedez, hautatu fitxategia
+; Please select file
+;
+msgPagingMemory
+\033cOrrikatze-memoria
+; \033cPaging memory
+;
+msgMemType
+\033cMemoria mota
+; \033cMemory type
+;
+msgMinMem
+\033cGutxieneko memoria
+; \033cMinimum memory
+;
+msgMaxMem
+\033cGehienezko memoria
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cIdazketa-bufferra
+; \033cWrite buffer
+;
+msgPrio
+\033cVM Lehentasuna
+; \033cVM Priority
+;
+msgFileSize
+\033cFitxategiaren tamaina
+; \033cFile size
+;
+msgZoomed
+Titulu-barra soilik
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPosizioa egoera normalean
+; \033cPosition in normal state
+;
+msgLeftEdge
+Ezkerra
+; Left
+;
+msgTopEdge
+Goian
+; Top
+;
+msgPosZoomed
+\033cPosizioa titulu-barra gisa
+; \033cPosition as titlebar
+;
+msgStatistics
+Estatistikak
+; Statistics
+;
+msgCacheZ2RAM
+Zorro II RAMa cachean gorde
+; Cache Zorro II RAM
+;
+msgPatchWB
+Erakutsi VM WB tituluan
+; Show VM in WB title
+;
+msgMemTracking
+Memoriaren jarraipena
+; Memory tracking
+;
+msgMinVMAlloc
+Gutx. VM esleipena
+; Min. VM allocation
+;
+msgEnableHotkey
+Gaitu VM laster-tekla
+; Enable VM hotkey
+;
+msgDisableHotkey
+Desgaitu VM laster-tekla
+; Disable VM hotkey
+;
+msgProject
+Proiektu
+; Project
+;
+msgOpen
+Ireki...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Gorde berria...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Gorde Leihoa
+; Save Window
+;
+msgAbout
+About...
+; About...
+;
+msgHide
+Ezkutatu
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Atera
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Editatu
+; Edit
+;
+msgDefaults
+Lehenetsitako Balioak Berrezarri
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Gordetako azkena
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Berrezarri
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Gorde
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Erabili
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Deuseztu
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Partizioaren edo orrikatze-fitxategiaren izena falta da
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Memoria birtualaren kudeatzailea
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Ezin da VMM abiarazi\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Ez dago nahikoa memoriarik\n
+; Not enough memory\n
+;
+msgNew
+>> BERRIA <<
+; >> NEW <<
+;
+msgDefault
+----- L E H E N E T S I A -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Kargatu VMM Hobespenak
+; Load VMM Preferences
+;
+msgSavePrefs
+Gorde VMM Hobespenak
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s ez da baliozko hobespen-fitxategia\nLehenetsitakoak berrezartzen
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cMemoria birtuala MMUdun\n\033cAmigentzat\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Atazak/Programak
+; Tasks/Programs
+;
+msgMemory
+Memoria
+; Memory
+;
+msgMisc
+Miszelania
+; Miscellaneous
+;
+msgSelectProg
+Hautatu programa-fitxategia
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Errorea leihoaren posizioa gordetzean
+; Error saving window position
+;
+msgNoCfgFile
+Ezin da %s konfigurazio-fitxategia ireki
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+%s fitxategia ez da baliozko konfigurazio-fitxategia
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Gehitu direktorioa
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Hautatu direktorioa
+; Select directory
+;

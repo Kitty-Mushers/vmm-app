@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language polski
+## codeset 5
+;
+msgDontUseVM
+Nie u¿ywaj VM
+; Don't use VM
+;
+msgUseVM
+U¿ywaj VM
+; Use VM
+;
+msgAdvancedOptions
+Opcje zaawansowane
+; Advanced options
+;
+msgAddProg
+Dodaj program
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Dodaj zadanie
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Dodaj
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Góra
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+W górê
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+W dó³
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Dó³
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Usuñ
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Sortuj zawarto¶æ
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kod
+; Code
+;
+msgData
+Dane
+; Data
+;
+msgMinPublic
+Min. alokacja PUBLIC
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. alokacja nie-PUBLIC
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Wybierz zadanie
+; Select Task
+;
+msgFixedSize
+Sta³y rozmiar
+; Fixed size
+;
+msgDynamic
+Dynamiczny
+; Dynamic
+;
+msgRestrictedDynamic
+Ograniczony dynamiczny
+; Restricted dynamic
+;
+msgDevice
+Partycja
+; Partition
+;
+msgFile
+Plik
+; File
+;
+msgPseudoPart
+Pseudo-partycja
+; Pseudo-partition
+;
+msgAny
+DOWOLNA
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Wybierz plik
+; Please select file
+;
+msgPagingMemory
+\033cPamiêæ wymiany
+; \033cPaging memory
+;
+msgMemType
+\033cTyp pamiêci
+; \033cMemory type
+;
+msgMinMem
+\033cPamiêæ minimalna
+; \033cMinimum memory
+;
+msgMaxMem
+\033cPamiêæ maksymalna
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cBufor zapisu
+; \033cWrite buffer
+;
+msgPrio
+\033cPriorytet VM
+; \033cVM Priority
+;
+msgFileSize
+\033cRozmiar pliku
+; \033cFile size
+;
+msgZoomed
+Tylko belka tytu³owa
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPozycja w stanie normalnym
+; \033cPosition in normal state
+;
+msgLeftEdge
+Lewo
+; Left
+;
+msgTopEdge
+Góra
+; Top
+;
+msgPosZoomed
+\033cPozycja jako belka tytu³owa
+; \033cPosition as titlebar
+;
+msgStatistics
+Statystyki
+; Statistics
+;
+msgCacheZ2RAM
+Buforuj pamiêæ Zorro II
+; Cache Zorro II RAM
+;
+msgPatchWB
+Poka¿ VM na belce WB
+; Show VM in WB title
+;
+msgMemTracking
+¦ledzenie pamiêci
+; Memory tracking
+;
+msgMinVMAlloc
+Min. alokacja VM
+; Min. VM allocation
+;
+msgEnableHotkey
+Klawisz w³±czenia VM
+; Enable VM hotkey
+;
+msgDisableHotkey
+Klawisz wy³±czenia VM
+; Disable VM hotkey
+;
+msgProject
+Projekt
+; Project
+;
+msgOpen
+Otwórz...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Zapisz jako...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Zapisz okno
+; Save Window
+;
+msgAbout
+O programie...
+; About...
+;
+msgHide
+Ukryj
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Zakoñcz
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Edycja
+; Edit
+;
+msgDefaults
+Ustawienia standardowe
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Ostatnio zapisane
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Przywróæ
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Zapisz
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+U¿yj
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Poniechaj
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Brak nazwy partycji lub pliku wymiany
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Mened¿er pamiêci wirtualnej
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 by Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Nie mo¿na uruchomiæ VMM\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Brak pamiêci\n
+; Not enough memory\n
+;
+msgNew
+>> NOWY <<
+; >> NEW <<
+;
+msgDefault
+--- D O M Y ¦ L N E ---
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Wczytaj ustawienia VMM
+; Load VMM Preferences
+;
+msgSavePrefs
+Zapisz ustawienia VMM
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s nie jest prawid³owym plikiem ustawieñ\nPrzywracanie ustawieñ domy¶lnych
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cPamiêæ wirtualna dla Amig\n\033cz MMU\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Zadania/Programy
+; Tasks/Programs
+;
+msgMemory
+Pamiêæ
+; Memory
+;
+msgMisc
+Ró¿ne
+; Miscellaneous
+;
+msgSelectProg
+Wybierz plik programu
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+B³±d zapisu pozycji okna
+; Error saving window position
+;
+msgNoCfgFile
+Nie mo¿na otworzyæ pliku konfiguracyjnego %s
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+Plik %s nie jest prawid³owym plikiem konfiguracyjnym
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Dodaj katalog
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Wybierz katalog
+; Select directory
+;

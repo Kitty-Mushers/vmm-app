@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+msgDontUseVM
+VM niet gebruiken
+; Don't use VM
+;
+msgUseVM
+VM gebruiken
+; Use VM
+;
+msgAdvancedOptions
+Geavanceerde opties
+; Advanced options
+;
+msgAddProg
+Programma toevoegen
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Task toevoegen
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Voeg toe
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Boven
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Omhoog
+; Up
+;
+msgUpShort
+h
+; u
+;
+msgDown
+Omlaag
+; Down
+;
+msgDownShort
+l
+; w
+;
+msgBottom
+Onder
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Verwijder
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Gesorteerd
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Code
+; Code
+;
+msgData
+Data
+; Data
+;
+msgMinPublic
+Min. PUBLIC alloc.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. non-PUBLIC alloc.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Selecteer task
+; Select Task
+;
+msgFixedSize
+Vaste grootte
+; Fixed size
+;
+msgDynamic
+Dynamisch
+; Dynamic
+;
+msgRestrictedDynamic
+Beperkt dynamisch
+; Restricted dynamic
+;
+msgDevice
+Partitie
+; Partition
+;
+msgFile
+Bestand
+; File
+;
+msgPseudoPart
+Pseudo-partitie
+; Pseudo-partition
+;
+msgAny
+ANY
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Selecteer bestand
+; Please select file
+;
+msgPagingMemory
+\033cWisselgeheugen
+; \033cPaging memory
+;
+msgMemType
+\033cGeheugentype
+; \033cMemory type
+;
+msgMinMem
+\033cMinimaal geheugen
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMaximaal geheugen
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cSchrijfbuffer
+; \033cWrite buffer
+;
+msgPrio
+\033cVM-prioriteit
+; \033cVM Priority
+;
+msgFileSize
+\033cBestandsgrootte
+; \033cFile size
+;
+msgZoomed
+Alleen titelbalk
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPositie in normale toestand
+; \033cPosition in normal state
+;
+msgLeftEdge
+Links
+; Left
+;
+msgTopEdge
+Boven
+; Top
+;
+msgPosZoomed
+\033cPositie als titelbalk
+; \033cPosition as titlebar
+;
+msgStatistics
+Statistieken
+; Statistics
+;
+msgCacheZ2RAM
+Zorro II-RAM cachen
+; Cache Zorro II RAM
+;
+msgPatchWB
+VM tonen in WB-titel
+; Show VM in WB title
+;
+msgMemTracking
+Geheugen bijhouden
+; Memory tracking
+;
+msgMinVMAlloc
+Min. VM-allocatie
+; Min. VM allocation
+;
+msgEnableHotkey
+Hotkey: VM inschakelen
+; Enable VM hotkey
+;
+msgDisableHotkey
+Hotkey: VM uitschakelen
+; Disable VM hotkey
+;
+msgProject
+Project
+; Project
+;
+msgOpen
+Open...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Bewaar als...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Venster bewaren
+; Save Window
+;
+msgAbout
+Over...
+; About...
+;
+msgHide
+Verberg
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Einde
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Bewerken
+; Edit
+;
+msgDefaults
+Herstel standaardinstellingen
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Laatst bewaarde versie
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Herstel
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Bewaar
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Gebruik
+; Use
+;
+msgUseShort
+h
+; u
+;
+msgCancel
+Annuleer
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Naam van partitie of wisselbestand ontbreekt
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Virtueel-geheugenbeheer
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Kon VMM niet starten\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Onvoldoende geheugen\n
+; Not enough memory\n
+;
+msgNew
+>> NIEUW <<
+; >> NEW <<
+;
+msgDefault
+----- S T A N D A A R D -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+VMM-instellingen laden
+; Load VMM Preferences
+;
+msgSavePrefs
+VMM-instellingen bewaren
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s is geen geldig instellingenbestand\nStandaardwaarden worden hersteld
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cVirtueel geheugen voor Amiga's\n\033cmet MMU\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Tasks/Programma's
+; Tasks/Programs
+;
+msgMemory
+Geheugen
+; Memory
+;
+msgMisc
+Diversen
+; Miscellaneous
+;
+msgSelectProg
+Selecteer programmabestand
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Fout bij bewaren van vensterpositie
+; Error saving window position
+;
+msgNoCfgFile
+Kon configuratiebestand %s niet openen
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+Bestand %s is geen geldig configuratiebestand
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Map toevoegen
+; Add Dir
+;
+msgAddDirShort
+m
+; i
+;
+msgSelectDir
+Selecteer map
+; Select directory
+;

@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language català
+## codeset 0
+;
+msgDontUseVM
+No utilitzar la VM
+; Don't use VM
+;
+msgUseVM
+Utilitzar la VM
+; Use VM
+;
+msgAdvancedOptions
+Opcions avançades
+; Advanced options
+;
+msgAddProg
+Afegir programa
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Afegir tasca
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Afegir
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Superior
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Amunt
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Avall
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Inferior
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Esborrar
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Ordenar
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Codi
+; Code
+;
+msgData
+Dades
+; Data
+;
+msgMinPublic
+Assign. mín. PUBLIC
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Assign. mín. no PUBLIC
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Seleccionar tasca
+; Select Task
+;
+msgFixedSize
+Mida fixa
+; Fixed size
+;
+msgDynamic
+Dinàmica
+; Dynamic
+;
+msgRestrictedDynamic
+Dinàmica restringida
+; Restricted dynamic
+;
+msgDevice
+Partició
+; Partition
+;
+msgFile
+Fitxer
+; File
+;
+msgPseudoPart
+Pseudopartició
+; Pseudo-partition
+;
+msgAny
+QUALSEVOL
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Si us plau, seleccioneu un fitxer
+; Please select file
+;
+msgPagingMemory
+\033cMemòria de paginació
+; \033cPaging memory
+;
+msgMemType
+\033cTipus de memòria
+; \033cMemory type
+;
+msgMinMem
+\033cMemòria mínima
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMemòria màxima
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cMemòria intermèdia d'escriptura
+; \033cWrite buffer
+;
+msgPrio
+\033cPrioritat de la VM
+; \033cVM Priority
+;
+msgFileSize
+\033cMida del fitxer
+; \033cFile size
+;
+msgZoomed
+Només barra de títol
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPosició en estat normal
+; \033cPosition in normal state
+;
+msgLeftEdge
+Esquerra
+; Left
+;
+msgTopEdge
+Superior
+; Top
+;
+msgPosZoomed
+\033cPosició com a barra de títol
+; \033cPosition as titlebar
+;
+msgStatistics
+Estadístiques
+; Statistics
+;
+msgCacheZ2RAM
+Memòria cau per a la RAM Zorro II
+; Cache Zorro II RAM
+;
+msgPatchWB
+Mostrar la VM al títol del WB
+; Show VM in WB title
+;
+msgMemTracking
+Seguiment de la memòria
+; Memory tracking
+;
+msgMinVMAlloc
+Assignació mín. de VM
+; Min. VM allocation
+;
+msgEnableHotkey
+Drecera per activar la VM
+; Enable VM hotkey
+;
+msgDisableHotkey
+Drecera per desactivar la VM
+; Disable VM hotkey
+;
+msgProject
+Projecte
+; Project
+;
+msgOpen
+Obrir...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Desar com...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Desar finestra
+; Save Window
+;
+msgAbout
+Sobre...
+; About...
+;
+msgHide
+Amagar
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Sortir
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Editar
+; Edit
+;
+msgDefaults
+Restablir per defecte
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Últim desat
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Restaurar
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Desar
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Usar
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Cancel.lar
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Falta el nom de la partició o del fitxer de paginació
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Gestor de memòria virtual
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 per Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+No s'ha pogut iniciar VMM\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+No hi ha prou memòria\n
+; Not enough memory\n
+;
+msgNew
+>> NOU <<
+; >> NEW <<
+;
+msgDefault
+----- P E R   D E F E C T E -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Carregar les preferències de VMM
+; Load VMM Preferences
+;
+msgSavePrefs
+Desar les preferències de VMM
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s no és un fitxer de preferències vàlid\nEs restableixen els valors per defecte
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cMemòria virtual per a Amigas\n\033camb MMU\n\n\033cCopyright 1993-95 per Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Tasques/Programes
+; Tasks/Programs
+;
+msgMemory
+Memòria
+; Memory
+;
+msgMisc
+Miscel·lània
+; Miscellaneous
+;
+msgSelectProg
+Seleccionar fitxer de programa
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Error en desar la posició de la finestra
+; Error saving window position
+;
+msgNoCfgFile
+No s'ha pogut obrir el fitxer de configuració %s
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+El fitxer %s no és un fitxer de configuració vàlid
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Afegir directori
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Seleccionar directori
+; Select directory
+;

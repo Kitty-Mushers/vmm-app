@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+msgDontUseVM
+VM kullanma
+; Don't use VM
+;
+msgUseVM
+VM kullan
+; Use VM
+;
+msgAdvancedOptions
+Geliþmiþ seçenekler
+; Advanced options
+;
+msgAddProg
+Program Ekle
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Görev Ekle
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Ekle
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Üst
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Yukarý
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Aþaðý
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Alt
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Sil
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Sýrala
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kod
+; Code
+;
+msgData
+Veri
+; Data
+;
+msgMinPublic
+Min. PUBLIC ayýrma
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. PUBLIC olmayan ayýrma
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Görev Seç
+; Select Task
+;
+msgFixedSize
+Sabit boyut
+; Fixed size
+;
+msgDynamic
+Dinamik
+; Dynamic
+;
+msgRestrictedDynamic
+Kýsýtlý dinamik
+; Restricted dynamic
+;
+msgDevice
+Bölüm
+; Partition
+;
+msgFile
+Dosya
+; File
+;
+msgPseudoPart
+Sözde bölüm
+; Pseudo-partition
+;
+msgAny
+HERHANGÝ
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Lütfen dosya seçin
+; Please select file
+;
+msgPagingMemory
+\033cSayfalama belleði
+; \033cPaging memory
+;
+msgMemType
+\033cBellek türü
+; \033cMemory type
+;
+msgMinMem
+\033cEn az bellek
+; \033cMinimum memory
+;
+msgMaxMem
+\033cEn fazla bellek
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cYazma tamponu
+; \033cWrite buffer
+;
+msgPrio
+\033cVM Önceliði
+; \033cVM Priority
+;
+msgFileSize
+\033cDosya boyutu
+; \033cFile size
+;
+msgZoomed
+Yalnýzca baþlýk çubuðu
+; Titlebar only
+;
+msgPosUnzoomed
+\033cNormal durumdaki konum
+; \033cPosition in normal state
+;
+msgLeftEdge
+Sol
+; Left
+;
+msgTopEdge
+Üst
+; Top
+;
+msgPosZoomed
+\033cBaþlýk çubuðu olarak konum
+; \033cPosition as titlebar
+;
+msgStatistics
+Ýstatistikler
+; Statistics
+;
+msgCacheZ2RAM
+Zorro II RAM'i önbelleðe al
+; Cache Zorro II RAM
+;
+msgPatchWB
+VM'yi WB baþlýðýnda göster
+; Show VM in WB title
+;
+msgMemTracking
+Bellek izleme
+; Memory tracking
+;
+msgMinVMAlloc
+Min. VM ayýrma
+; Min. VM allocation
+;
+msgEnableHotkey
+VM kýsayol tuþunu etkinleþtir
+; Enable VM hotkey
+;
+msgDisableHotkey
+VM kýsayol tuþunu devre dýþý býrak
+; Disable VM hotkey
+;
+msgProject
+Proje
+; Project
+;
+msgOpen
+Aç...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Farklý Kaydet...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Pencereyi Kaydet
+; Save Window
+;
+msgAbout
+Hakkýnda...
+; About...
+;
+msgHide
+Gizle
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Çýkýþ
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Düzen
+; Edit
+;
+msgDefaults
+Varsayýlana Sýfýrla
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Son Kaydedilen
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Geri Yükle
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Kaydet
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Kullan
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Vazgeç
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Sayfa dosyasýnýn bölüm adý eksik
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Sanal bellek yöneticisi
+; Virtual memory manager
+;
+msgCopyright
+Telif Hakký 1993-95 Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+VMM baþlatýlamadý\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Yeterli bellek yok\n
+; Not enough memory\n
+;
+msgNew
+>> YENÝ <<
+; >> NEW <<
+;
+msgDefault
+----- V A R S A Y I L A N -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+VMM Tercihlerini Yükle
+; Load VMM Preferences
+;
+msgSavePrefs
+VMM Tercihlerini Kaydet
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s geçerli bir tercihler dosyasý deðil\nVarsayýlanlara sýfýrlanýyor
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cMMU'lu Amiga'lar için\n\033csanal bellek\n\n\033cTelif Hakký 1993-95 Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Görevler/Programlar
+; Tasks/Programs
+;
+msgMemory
+Bellek
+; Memory
+;
+msgMisc
+Çeþitli
+; Miscellaneous
+;
+msgSelectProg
+Program dosyasý seçin
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Pencere konumu kaydedilirken hata
+; Error saving window position
+;
+msgNoCfgFile
+%s yapýlandýrma dosyasý açýlamadý
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+%s dosyasý geçerli bir yapýlandýrma dosyasý deðil
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Dizin Ekle
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Dizin seçin
+; Select directory
+;

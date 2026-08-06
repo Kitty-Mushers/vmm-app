@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+msgDontUseVM
+Ne használjon VM-et
+; Don't use VM
+;
+msgUseVM
+VM használata
+; Use VM
+;
+msgAdvancedOptions
+Haladó beállítások
+; Advanced options
+;
+msgAddProg
+Program hozzáadása
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Taszk hozzáadása
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Hozzáad
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Fent
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Fel
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Le
+; Down
+;
+msgDownShort
+w
+; w
+;
+msgBottom
+Lent
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Töröl
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Rendezés
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kód
+; Code
+;
+msgData
+Adat
+; Data
+;
+msgMinPublic
+Min. PUBLIC fogl.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. nem PUBLIC fogl.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Taszk kiválasztása
+; Select Task
+;
+msgFixedSize
+Rögzített méret
+; Fixed size
+;
+msgDynamic
+Dinamikus
+; Dynamic
+;
+msgRestrictedDynamic
+Korlátozott dinamikus
+; Restricted dynamic
+;
+msgDevice
+Partíció
+; Partition
+;
+msgFile
+Állomány
+; File
+;
+msgPseudoPart
+Pszeudo-partíció
+; Pseudo-partition
+;
+msgAny
+BÁRMELY
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Válassz fájlt
+; Please select file
+;
+msgPagingMemory
+\033cLapozómemória
+; \033cPaging memory
+;
+msgMemType
+\033cMemóriatípus
+; \033cMemory type
+;
+msgMinMem
+\033cMinimális memória
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMaximális memória
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cÍrási puffer
+; \033cWrite buffer
+;
+msgPrio
+\033cVM prioritás
+; \033cVM Priority
+;
+msgFileSize
+\033cFájlméret
+; \033cFile size
+;
+msgZoomed
+Csak fejléc
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPozíció normál állapotban
+; \033cPosition in normal state
+;
+msgLeftEdge
+Balra
+; Left
+;
+msgTopEdge
+Fent
+; Top
+;
+msgPosZoomed
+\033cPozíció fejlécként
+; \033cPosition as titlebar
+;
+msgStatistics
+Statisztika
+; Statistics
+;
+msgCacheZ2RAM
+Zorro II RAM gyorsítótárazása
+; Cache Zorro II RAM
+;
+msgPatchWB
+VM mutatása a WB fejlécben
+; Show VM in WB title
+;
+msgMemTracking
+Memóriakövetés
+; Memory tracking
+;
+msgMinVMAlloc
+Min. VM foglalás
+; Min. VM allocation
+;
+msgEnableHotkey
+VM bekapcsoló gyorsbillentyû
+; Enable VM hotkey
+;
+msgDisableHotkey
+VM kikapcsoló gyorsbillentyû
+; Disable VM hotkey
+;
+msgProject
+Projekt
+; Project
+;
+msgOpen
+Megnyitás...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Mentés mint...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Ablak mentése
+; Save Window
+;
+msgAbout
+Névjegy...
+; About...
+;
+msgHide
+Rejt
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Kilépés
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Szerkesztés
+; Edit
+;
+msgDefaults
+Alapértelmezések visszaállítása
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Utoljára mentett
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Visszaállítás
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Ment
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Használ
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Mégsem
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Hiányzik a lapozófájl partíciójának neve
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Virtuálismemória-kezelõ
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 by Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Nem sikerült elindítani a VMM-et\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Nincs elég memória\n
+; Not enough memory\n
+;
+msgNew
+>> ÚJ <<
+; >> NEW <<
+;
+msgDefault
+----- A L A P -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+VMM beállítások betöltése
+; Load VMM Preferences
+;
+msgSavePrefs
+VMM beállítások mentése
+; Save VMM Preferences
+;
+msgInvalidPrefs
+A(z) %s nem érvényes beállításfájl\nVisszaállítás alapértelmezettre
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cVirtuális memória MMU-val\n\033crendelkezõ Amigákhoz\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Taszkok/Programok
+; Tasks/Programs
+;
+msgMemory
+Memória
+; Memory
+;
+msgMisc
+Egyéb
+; Miscellaneous
+;
+msgSelectProg
+Válassz programfájlt
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Hiba az ablakpozíció mentésekor
+; Error saving window position
+;
+msgNoCfgFile
+Nem sikerült megnyitni a(z) %s konfigurációs fájlt
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+A(z) %s fájl nem érvényes konfigurációs fájl
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Könyvtár hozzáadása
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Könyvtár kiválasztása
+; Select directory
+;

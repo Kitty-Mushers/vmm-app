@@ -1,0 +1,428 @@
+## version $VER: VMM.catalog 3.0 (06.08.2026)
+## language czech
+## codeset 5
+;
+msgDontUseVM
+Nepou¾ívat VM
+; Don't use VM
+;
+msgUseVM
+Pou¾ívat VM
+; Use VM
+;
+msgAdvancedOptions
+Roz¹íøené volby
+; Advanced options
+;
+msgAddProg
+Pøidat program
+; Add Program
+;
+msgAddProgShort
+p
+; p
+;
+msgAddTask
+Pøidat úlohu
+; Add Task
+;
+msgAddTaskShort
+t
+; t
+;
+msgAdd
+Pøidat
+; Add
+;
+msgAddShort
+a
+; a
+;
+msgTop
+Nahoøe
+; Top
+;
+msgTopShort
+t
+; t
+;
+msgUp
+Nahoru
+; Up
+;
+msgUpShort
+u
+; u
+;
+msgDown
+Dolù
+; Down
+;
+msgDownShort
+l
+; w
+;
+msgBottom
+Dole
+; Bottom
+;
+msgBottomShort
+b
+; b
+;
+msgDelete
+Odebrat
+; Delete
+;
+msgDeleteShort
+d
+; d
+;
+msgSort
+Seøadit
+; Sort
+;
+msgSortShort
+o
+; o
+;
+msgCode
+Kód
+; Code
+;
+msgData
+Data
+; Data
+;
+msgMinPublic
+Min. PUBLIC alok.
+; Min. PUBLIC alloc.
+;
+msgMinNonPublic
+Min. non-PUBLIC alok.
+; Min. non-PUBLIC alloc.
+;
+msgSelectTask
+Vyberte úlohu
+; Select Task
+;
+msgFixedSize
+Pevná velikost
+; Fixed size
+;
+msgDynamic
+Dynamická
+; Dynamic
+;
+msgRestrictedDynamic
+Omezená dynamická
+; Restricted dynamic
+;
+msgDevice
+Oddíl
+; Partition
+;
+msgFile
+Soubor
+; File
+;
+msgPseudoPart
+Pseudo-oddíl
+; Pseudo-partition
+;
+msgAny
+ANY
+; ANY
+;
+msgChip
+CHIP
+; CHIP
+;
+msgFast
+FAST
+; FAST
+;
+msgSelectFile
+Vyberte prosím soubor
+; Please select file
+;
+msgPagingMemory
+\033cOdkládací pamì»
+; \033cPaging memory
+;
+msgMemType
+\033cTyp pamìti
+; \033cMemory type
+;
+msgMinMem
+\033cMinimální pamì»
+; \033cMinimum memory
+;
+msgMaxMem
+\033cMaximální pamì»
+; \033cMaximum memory
+;
+msgWriteBuffer
+\033cZápisový buffer
+; \033cWrite buffer
+;
+msgPrio
+\033cPriorita VM
+; \033cVM Priority
+;
+msgFileSize
+\033cVelikost souboru
+; \033cFile size
+;
+msgZoomed
+Pouze titulkový pruh
+; Titlebar only
+;
+msgPosUnzoomed
+\033cPozice v normálním stavu
+; \033cPosition in normal state
+;
+msgLeftEdge
+Vlevo
+; Left
+;
+msgTopEdge
+Nahoøe
+; Top
+;
+msgPosZoomed
+\033cPozice v titulkovém pruhu
+; \033cPosition as titlebar
+;
+msgStatistics
+Statistika
+; Statistics
+;
+msgCacheZ2RAM
+Vyrovnávací pamì» pro Zorro II RAM
+; Cache Zorro II RAM
+;
+msgPatchWB
+Zobrazit VM v titulku WB
+; Show VM in WB title
+;
+msgMemTracking
+Sledování pamìti
+; Memory tracking
+;
+msgMinVMAlloc
+Min. alokace VM
+; Min. VM allocation
+;
+msgEnableHotkey
+Klávesová zkratka pro zapnutí VM
+; Enable VM hotkey
+;
+msgDisableHotkey
+Klávesová zkratka pro vypnutí VM
+; Disable VM hotkey
+;
+msgProject
+Projekt
+; Project
+;
+msgOpen
+Otevøít...
+; Open...
+;
+msgOpenShort
+O
+; O
+;
+msgSaveAs
+Ulo¾it jako...
+; Save As...
+;
+msgSaveAsShort
+A
+; A
+;
+msgSaveWindow
+Ulo¾it okno
+; Save Window
+;
+msgAbout
+O programu...
+; About...
+;
+msgHide
+Skrýt
+; Hide
+;
+msgHideShort
+H
+; H
+;
+msgQuit
+Ukonèit
+; Quit
+;
+msgQuitShort
+Q
+; Q
+;
+msgEdit
+Úpravy
+; Edit
+;
+msgDefaults
+Obnovit výchozí
+; Reset To Defaults
+;
+msgDefaultsShort
+D
+; D
+;
+msgLastSaved
+Naposledy ulo¾ené
+; Last Saved
+;
+msgLastSavedShort
+L
+; L
+;
+msgRestore
+Obnovit pøedchozí
+; Restore
+;
+msgRestoreShort
+R
+; R
+;
+msgSave
+Ulo¾it
+; Save
+;
+msgSaveShort
+s
+; s
+;
+msgUse
+Pou¾ít
+; Use
+;
+msgUseShort
+u
+; u
+;
+msgCancel
+Zru¹it
+; Cancel
+;
+msgCancelShort
+c
+; c
+;
+msgNameMissing
+Chybí název oddílu odkládacího souboru
+; Name of partition of pagefile is missing
+;
+msgVMMDescr
+Správce virtuální pamìti
+; Virtual memory manager
+;
+msgCopyright
+Copyright 1993-95 by Martin Apel
+; Copyright 1993-95 by Martin Apel
+;
+msgStartVMMError
+Nelze spustit VMM\n
+; Couldn't start VMM\n
+;
+msgOutOfMem
+Nedostatek pamìti\n
+; Not enough memory\n
+;
+msgNew
+>> NOVÝ <<
+; >> NEW <<
+;
+msgDefault
+----- V Ý C H O Z Í -----
+; ----- D E F A U L T -----
+;
+msgLoadPrefs
+Naètení nastavení VMM
+; Load VMM Preferences
+;
+msgSavePrefs
+Ulo¾ení nastavení VMM
+; Save VMM Preferences
+;
+msgInvalidPrefs
+%s není platný soubor nastavení\nObnovuji výchozí hodnoty
+; %s is not a valid preferences file\nResetting to defaults
+;
+msgAboutString
+\033c\033bVMM V3.3\033n\n\033cVirtuální pamì» pro Amigy\n\033cs MMU\n\n\033cCopyright 1993-95 by Martin Apel
+; \033c\033bVMM V3.3\033n\n\033cVirtual memory for Amigas\n\033cwith MMU\n\n\033cCopyright 1993-95 by Martin Apel
+;
+msgTasksProgs
+Úlohy/Programy
+; Tasks/Programs
+;
+msgMemory
+Pamì»
+; Memory
+;
+msgMisc
+Rùzné
+; Miscellaneous
+;
+msgSelectProg
+Vyberte soubor s programem
+; Select program file
+;
+msgUseCodeShort
+Y
+; Y
+;
+msgNoUseCodeShort
+N
+; N
+;
+msgUseDataShort
+Y
+; Y
+;
+msgNoUseDataShort
+N
+; N
+;
+msgAdvancedDataShort
+A
+; A
+;
+msgSaveWinError
+Chyba pøi ukládání pozice okna
+; Error saving window position
+;
+msgNoCfgFile
+Nelze otevøít konfiguraèní soubor %s
+; Couldn't open config file %s
+;
+msgCorruptCfgFile
+Soubor %s není platný konfiguraèní soubor
+; File %s is not a valid config file
+;
+msgFastROM
+FastROM
+; FastROM
+;
+msgAddDir
+Pøidat adresáø
+; Add Dir
+;
+msgAddDirShort
+i
+; i
+;
+msgSelectDir
+Vyberte adresáø
+; Select directory
+;
